@@ -1,3 +1,3 @@
 # ebac-pull-request
 
-Atualização no main
+Atualização no main com resuloção
