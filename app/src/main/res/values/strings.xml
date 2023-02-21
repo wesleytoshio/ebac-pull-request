@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndKot</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Feed</string>
+    <string name="second_fragment_label">Single Feed</string>
+    <string name="next">Go to single feed</string>
+    <string name="previous">Back to Home</string>
+
+    <string name="hello_first_fragment">Welcome to my first project Android using Kotlin</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
